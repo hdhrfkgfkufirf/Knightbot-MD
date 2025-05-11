@@ -2,7 +2,14 @@ require('dotenv').config();
 
 global.APIs = {
     xteam: 'https://api.xteam.xyz',
-    dzx: 'https://api.dhamzxploit.my.id',
+    dzx: 'https://api.dhamzxploit.my.id'⚠️Do not share this file with anybody⚠️
+ 
+┌┤✑  Thanks for using Knight Bot
+│└────────────┈ ⳹        
+│©2024 Mr Unique Hacker 
+└─────────────────┈ ⳹
+
+,
     lol: 'https://api.lolhuman.xyz',
     violetics: 'https://violetics.pw',
     neoxr: 'https://api.neoxr.my.id',
